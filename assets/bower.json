@@ -1,0 +1,20 @@
+{
+  "name": "Bevo-Boilerplate",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "respond": "~1.4.2"
+  },
+  "authors": [
+    "Robert Weiss <post@robertweiss.de>"
+  ],
+  "license": "MIT",
+  "private": true
+}
